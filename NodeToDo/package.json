@@ -1,0 +1,9 @@
+{
+  "name": "node-to-do",
+  "version": "0.0.0",
+  "description": "NodeToDo",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
